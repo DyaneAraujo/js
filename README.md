@@ -1,2 +1,2 @@
 # js
-Curso de JavaScripit.
+Curso de JavaScript.
